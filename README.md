@@ -5,6 +5,6 @@
 <details>
 <summary>2022. 11.<summary>
 <div markdown="1">
-* TIL 2022.11.6.(일)
+    * TIL 2022.11.6.(일)
 </div>
 </details>
