@@ -8,6 +8,7 @@
 
 - [TIL 2022.11.6.(일)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.6.(일).md)
 - [TIL 2022.11.7.(월)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.7.(월).md)
+- TIL 2022.11.8.(화)
     
 </div>
 </details>
