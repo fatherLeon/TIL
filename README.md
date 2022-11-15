@@ -11,7 +11,8 @@
 - [TIL 2022.11.8.(화)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.8.(화).md)
 - [TIL 2022.11.9.(수)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.9.(수).md)
 - [TIL 2022.11.11.(금)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.11.(금).md)
-- TIL 2022.11.13.(일)
+- [TIL 2022.11.13.(일)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.13.(일).md)
+- [TIL 2022.11.13.(월)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.14.(월).md)
     
 </div>
 </details>
