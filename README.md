@@ -18,5 +18,7 @@
 
 - [TIL 2022.11.18.(금)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.18.(금).md)
 
+- [TIL 2022.11.19.(토)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.19.(토).md)
+
 </div>
 </details>
