@@ -20,5 +20,7 @@
 
 - [TIL 2022.11.19.(토)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.19.(토).md)
 
+- [TIL 2022.11.20.(일)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.20.(일).md)
+
 </div>
 </details>
