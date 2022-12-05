@@ -6,6 +6,16 @@
 <summary>📅2022. 11.</summary>
 <div markdown="1">
 
+- [TIL 2022.12.4.(일)-typealias](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.12.4.(일).md)
+
+</div>
+</details>
+
+
+<details>
+<summary>📅2022. 11.</summary>
+<div markdown="1">
+
 - [TIL 2022.11.6.(일)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.6.(일).md)
 - [TIL 2022.11.7.(월)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.7.(월).md)
 - [TIL 2022.11.8.(화)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.8.(화).md)
@@ -31,6 +41,5 @@
 - [TIL 2022.11.28.(월)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.28.(월).md)
 
 - [TIL 2022.11.29.(화)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.29.(화).md)
-
 </div>
 </details>
