@@ -6,8 +6,9 @@
 <summary>📅2022. 12.</summary>
 <div markdown="1">
 
+- [TIL 2022.12.4.(일)-typealias](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.4.(일).md)
 
-- [TIL 2022.12.4.(일)-typealias](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.12.4.(일).md)
+- [TIL 2022.12.5.(월)-String](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.5.(월).md)
 
 </div>
 </details>
