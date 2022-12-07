@@ -10,6 +10,8 @@
 
 - [TIL 2022.12.5.(월)-String](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.5.(월).md)
 
+- [TIL 2022.12.7.(수)-String](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.7.(수).md)
+
 </div>
 </details>
 
