@@ -12,7 +12,9 @@
 
 - [TIL 2022.12.7.(수)-ARC(Unowned References))](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.7.(수).md)
 
-- [TIL 2022.12.13.(화)- Reduce](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%20%202022.12.13.(화).md)
+- [TIL 2022.12.13.(화)-Reduce](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%20%202022.12.13.(화).md)
+
+- [TIL 2022.12.15.(금)-inout](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.15.(목).md)
 
 </div>
 </details>
