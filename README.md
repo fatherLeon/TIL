@@ -18,6 +18,7 @@
 
 - [TIL 2022.12.19.(월)- if문 , &&의 차이](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.19.(월).md)
 
+- [TIL 2022.12.20.(화)-Git(Reset, Revert))](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.20.(화).md)
 
 </div>
 </details>
