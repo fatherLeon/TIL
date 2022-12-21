@@ -20,6 +20,8 @@
 
 - [TIL 2022.12.20.(화)-Git(Reset, Revert))](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.20.(화).md)
 
+- [TIL 2022.12.21.(수)-Tuple과 왜 Foundation을 써야할까?)](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.21.(수).md)
+
 </div>
 </details>
 
