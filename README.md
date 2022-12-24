@@ -22,6 +22,10 @@
 
 - [TIL 2022.12.21.(수)-Tuple과 왜 Foundation을 써야할까?)](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.21.(수).md)
 
+- [TIL 2022.12.22.(목)-Optonal과 Result타입](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.22.(목).md)
+
+- [TIL 2022.12.23.(금)-간단한CS정리](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.23.(금).md)
+
 </div>
 </details>
 
