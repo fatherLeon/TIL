@@ -26,6 +26,10 @@
 
 - [TIL 2022.12.23.(금)-간단한CS정리](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.23.(금).md)
 
+- [TIL 2022.12.24.(금)-재귀함수](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.24.(토).md)
+
+- [TIL 2022.12.26.(월)-repeat~while, switch(value bindings, where), 일반화, 추상화, 캡슐화, 은닉화](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.26.(월).md)
+
 </div>
 </details>
 
