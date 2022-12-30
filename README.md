@@ -22,7 +22,7 @@
 
 - [TIL 2022.12.21.(수)-Tuple과 왜 Foundation을 써야할까?)](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.21.(수).md)
 
-- [TIL 2022.12.22.(목)-Optonal과 Result타입](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.22.(목).md)
+- [TIL 2022.12.22.(목)-Optional과 Result타입](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.22.(목).md)
 
 - [TIL 2022.12.23.(금)-간단한CS정리](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.23.(금).md)
 
@@ -32,7 +32,7 @@
 
 - [TIL 2022.12.27.(화)-Recursive Enumerations, namespace](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.27.(화).md)
 
-- [TIL 2022.12.29.(목)-Stored Property of constant structure, Lazy Stroed Property, Property Observers](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.29.(목).md)
+- [TIL 2022.12.29.(목)-Stored Property of constant structure, Lazy Stored Property, Property Observers](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.29.(목).md)
 
 - [TIL 2022.12.30.(금)-commit, Vi, Property Wrappers, Type Properties](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.29.(목).md)
 
