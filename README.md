@@ -30,6 +30,12 @@
 
 - [TIL 2022.12.26.(월)-repeat~while, switch(value bindings, where), 일반화, 추상화, 캡슐화, 은닉화](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.26.(월).md)
 
+- [TIL 2022.12.27.(화)-Recursive Enumerations, namespace](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.27.(화).md)
+
+- [TIL 2022.12.29.(목)-Stored Property of constant structure, Lazy Stroed Property, Property Observers](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.29.(목).md)
+
+- [TIL 2022.12.30.(금)-commit, Vi, Property Wrappers, Type Properties](https://github.com/fatherLeon/TIL/blob/main/2022.12/TIL%202022.12.29.(목).md)
+
 </div>
 </details>
 
@@ -65,3 +71,24 @@
 - [TIL 2022.11.29.(화)](https://github.com/fatherLeon/TIL/blob/main/2022.11/TIL%202022.11.29.(화).md)
 </div>
 </details>
+
+
+## Commit 컨벤션
+```
+<head>(subject)
+
+<body>
+
+<footer>
+```
+* head, body, footer은 서로 줄바꿈(Enter)로 구분을 한다.
+
+|head|body|footer|
+| :-----: | :-----: | :-----: |
+| 제목은 명령어로 간단하게(ex: Add 22.12.30.(금)TIL 추가) | 내용은 TIL에 있는 내용(ex: Closure, Type Properties 내용 추가) | 명령어만 짧고 간단하게(ex: Add) |
+
+### head와 footer 앞에 붙일 컨벤션
+* Add - 파일 추가
+* Edit - 파일 수정
+* Delete - 파일 삭제
+* Chore - 그 외 내용관련 
