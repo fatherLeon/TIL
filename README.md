@@ -3,6 +3,15 @@
 ## 하루 공부한 내용을 간단하게 정리한 레포입니다
 
 <details>
+<summary>📅2023. 1.</summary>
+<div markdown="1">
+
+- [TIL 2023.1.2.(월) - Initialization]()
+
+</div>
+</details>
+
+<details>
 <summary>📅2022. 12.</summary>
 <div markdown="1">
 
