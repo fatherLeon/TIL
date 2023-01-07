@@ -7,8 +7,14 @@
 <div markdown="1">
 
 - [TIL 2023.1.2.(월) - Initialization](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.2.(월).md)
+
 - [TIL 2023.1.3.(화) - Initialization, MVC](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.3.(화).md)
+
 - [TIL 2023.1.5.(목) - @IBAction이벤트, class와 구조체의 올바른 사용법](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.5.(목).md)
+
+- [TIL 2023.1.6.(금) - UIAlertController, UIAlertAction](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.6.(금).md)
+
+- [TIL 2023.1.7.(토))](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.7.(토).md)
 
 </div>
 </details>
