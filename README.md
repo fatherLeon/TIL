@@ -14,7 +14,10 @@
 
 - [TIL 2023.1.6.(금) - UIAlertController, UIAlertAction](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.6.(금).md)
 
-- [TIL 2023.1.7.(토))](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.7.(토).md)
+- [TIL 2023.1.7.(토)](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.7.(토).md)
+
+- - [TIL 2023.1.9.(월) - 싱글톤, 클래스와 구조체 차이와 메모리](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.9.(월).md)
+
 
 </div>
 </details>
