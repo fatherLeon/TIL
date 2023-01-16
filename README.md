@@ -22,6 +22,8 @@
 
 - [TIL 2023.1.12.(목) - Delegate를 이용한 데이터 전달](https://leonfather.tistory.com/5)
 
+- [TIL 2023.1.16.(월) - 타입 캐스팅](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.16.(월).md)
+
 </div>
 </details>
 
