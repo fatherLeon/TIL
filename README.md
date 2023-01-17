@@ -10,7 +10,7 @@
 
 - [TIL 2023.1.3.(화) - Initialization, MVC](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.3.(화).md)
 
-- [TIL 2023.1.5.(목) - @IBAction이벤트, class와 구조체의 올바른 사용법](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.5.(목).md)
+- [TIL 2023.1.5.(목) - @IBAction이벤트, class와 구조체의 올바른 사용법](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.5.(수).md)
 
 - [TIL 2023.1.6.(금) - UIAlertController, UIAlertAction](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.6.(금).md)
 
@@ -23,6 +23,8 @@
 - [TIL 2023.1.12.(목) - Delegate를 이용한 데이터 전달](https://leonfather.tistory.com/5)
 
 - [TIL 2023.1.16.(월) - 타입 캐스팅](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.16.(월).md)
+
+- [TIL 2023.1.17.(화) - 접근제어(Access Control))](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.17.(화).md)
 
 </div>
 </details>
