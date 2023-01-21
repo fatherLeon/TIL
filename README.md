@@ -30,7 +30,7 @@
 
 - [TIL 2023.1.21.(토) - 불투명 타입 간단하게 훑어보기](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.21.(토).md)
 
-- [TIL 2023.1.22.(일) - KVO, KVC](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.22.(일).md)
+- [TIL 2023.1.22.(일) - KVO, KVC](https://leonfather.tistory.com/10)
 
 </div>
 </details>
