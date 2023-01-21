@@ -28,6 +28,8 @@
 
 - [TIL 2023.1.19.(목) - 스위프트 코드 성능 올리기)](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.19.(목).md)
 
+- [TIL 2023.1.21.(토) - 불투명 타입 간단하게 훑어보기)](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.21.(토).md)
+
 </div>
 </details>
 
