@@ -32,6 +32,8 @@
 
 - [TIL 2023.1.22.(일) - KVO, KVC](https://leonfather.tistory.com/10)
 
+- [TIL 2023.1.23.(월) - NotificationCenter](https://leonfather.tistory.com/11)
+
 </div>
 </details>
 
