@@ -34,6 +34,8 @@
 
 - [TIL 2023.1.23.(월) - NotificationCenter](https://leonfather.tistory.com/11)
 
+- [TIL 2023.1.25.(수) - SOLID 공부](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.25.(수).md)
+
 </div>
 </details>
 
