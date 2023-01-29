@@ -36,6 +36,8 @@
 
 - [TIL 2023.1.25.(수) - SOLID 공부](https://github.com/fatherLeon/TIL/blob/main/2023.1/TIL%202023.1.25.(수).md)
 
+- [TIL 2023.1.29.(일) - 정규식](https://leonfather.tistory.com/12)
+
 </div>
 </details>
 
