@@ -3,6 +3,17 @@
 ## 하루 공부한 내용을 간단하게 정리한 레포입니다
 
 <details>
+<summary>📅2023. 2.</summary>
+<div markdown="1">
+
+- [TIL 2023.2.5.(일)](https://leonfather.tistory.com/13)
+
+- [TIL 2023.2.7.(화)](https://leonfather.tistory.com/14)
+
+</div>
+</details>
+
+<details>
 <summary>📅2023. 1.</summary>
 <div markdown="1">
 
