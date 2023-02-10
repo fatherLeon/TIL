@@ -6,9 +6,11 @@
 <summary>📅2023. 2.</summary>
 <div markdown="1">
 
-- [TIL 2023.2.5.(일)](https://leonfather.tistory.com/13)
+- [TIL 2023.2.5.(일) - Closure](https://leonfather.tistory.com/13)
 
-- [TIL 2023.2.7.(화)](https://leonfather.tistory.com/14)
+- [TIL 2023.2.7.(화) - ARC](https://leonfather.tistory.com/14)
+
+- [TIL 2023.2.10.(금) - 강한순환참조 디버깅](https://leonfather.tistory.com/15)
 
 </div>
 </details>
