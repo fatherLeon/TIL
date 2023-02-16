@@ -12,6 +12,12 @@
 
 - [TIL 2023.2.10.(금) - 강한순환참조 디버깅](https://leonfather.tistory.com/15)
 
+- [TIL 2023.2.13.(월) - Memory Safety](https://github.com/fatherLeon/TIL/blob/main/2023.2/TIL%202023.2.13.(월).md)
+
+- [TIL 2023.2.14.(화) - Swift 컴파일, 컴파일러](https://leonfather.tistory.com/17)
+
+- [TIL 2023.2.16.(목) - Static, Dynamic Dispatcy](https://leonfather.tistory.com/18)
+
 </div>
 </details>
 
