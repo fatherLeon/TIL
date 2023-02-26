@@ -18,6 +18,12 @@
 
 - [TIL 2023.2.16.(목) - Static, Dynamic Dispatcy](https://leonfather.tistory.com/18)
 
+- [TIL 2023.2.20.(월) - 메타타입, type메소드, DTO, VO정리](https://github.com/fatherLeon/TIL/blob/main/2023.2/TIL%202023.2.20.(월).md)
+
+- [TIL 2023.2.22.(수) - Dynamic Dispatch를 줄여 성능 올리기](https://github.com/fatherLeon/TIL/blob/main/2023.2/TIL%202023.2.22.(수).md)
+
+- [TIL 2023.2.25.(토) - JsonDecoding 실패에 관하여](https://leonfather.tistory.com/19)
+
 </div>
 </details>
 
