@@ -24,6 +24,8 @@
 
 - [TIL 2023.2.25.(토) - JsonDecoding 실패에 관하여](https://leonfather.tistory.com/19)
 
+- [TIL 2023.2.25.(일) - TableView Section타이틀 대문자](https://leonfather.tistory.com/20)
+
 </div>
 </details>
 
