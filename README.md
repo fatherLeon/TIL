@@ -14,6 +14,8 @@
 
 - [TIL 2023.3.10.(금) - GCD 2편](https://leonfather.tistory.com/23)
 
+- [TIL 2023.3.12.(일) - GCD 3편](https://leonfather.tistory.com/24)
+
 </div>
 </details>
 
