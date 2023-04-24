@@ -18,6 +18,10 @@
 
 - [TIL 2023.4.18.(화) - Testing Tips and Tricks - 3](https://leonfather.tistory.com/31)
 
+- [TIL 2023.4.21.(금) - WWDC19 Advances in CollectionView Layout](https://leonfather.tistory.com/32)
+
+- [TIL 2023.4.22.(토) - Key값이 없는 JSON파일 Decoding](https://github.com/fatherLeon/TIL/blob/main/2023.4/TIL%202023.4.22.(토).md)
+
 </div>
 </details>
 
